@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://paradise12:paradise31@cluster0.k47wm.mongodb.net/paradise12?retryWrites=true&w=majority",
+  "clientID": "920305221228433448",
+  "token": "OTIwMzA1MjIxMjI4NDMzNDQ4.YbibBw.CDYa2PDUEOnfyDdvJjzYAyel9JQ",
+  "secret": "S8RsLuFfKwOenbtMSXTTML0S0F4tIaII",
+  "callbackURL": "https://imminent-rift-tablecloth.glitch.me/callback"
+}
